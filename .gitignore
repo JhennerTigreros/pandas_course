@@ -2,3 +2,4 @@
 **/venv
 **/debug.lock
 **/.vscode
+**/.ipynb_checkpoints
