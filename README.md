@@ -3,8 +3,6 @@
 
 # Configuración
 
-Para configurar el entorno de trabajo ejecutar el script `setup.sh` el cual
-te creara un entorno virtual `venv` e instalara todas las librerías necesarías
-para ejecutar el notebook y codigo en el.
+Para configurar el entorno de trabajo ejecutar el script `setup.sh` el cual te creará un entorno virtual `venv` e instalará todas las librerías necesarias para ejecutar el notebook y codigo en él.
 
 ## Configuración de la base de datos.
